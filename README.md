@@ -1,4 +1,4 @@
-# Messages
+# MessageHub
 
 ## Introduction
 This project is a simple message management system built using Node.js, Express, and MongoDB.
